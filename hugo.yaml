@@ -1,4 +1,4 @@
-baseURL:
+baseURL: https://vtekz.github.io/cw/""
 languageCode: en-us
 title: My New Hugo Site
 theme: ["PaperMod"]
