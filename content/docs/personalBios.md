@@ -1,6 +1,6 @@
 ---
-title: '"15 Personal Bio Examples That Are Fun, Creative, and Get the Job Done - Comfy
-  Workspace"'
+title: '15 Personal Bio Examples That Are Fun, Creative, and Get the Job Done - Comfy
+  Workspace'
 date: '2024-07-10T00:12:00-00:00'
 tags: []
 author: Me
@@ -9,9 +9,9 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: '"Struggling to write about yourself? Discover 15 personal bio examples
+description: 'Struggling to write about yourself? Discover 15 personal bio examples
   that are fun, creative, and effective. Learn how to present yourself in an engaging
-  way on social media, personal websites, and more."'
+  way on social media, personal websites, and more.'
 canonicalURL: https://blog.comfyworkspace.com/
 disableHLJS: true
 disableShare: false
@@ -24,7 +24,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-  image: <image path/url>
+  image: "/bio.jpg"
   alt: <alt text>
   caption: <text>
   relative: false
@@ -34,8 +34,6 @@ editPost:
   Text: Suggest Changes
   appendFilePath: true
 ---
-
-# 15 Personal Bio Examples That Are Fun, Creative, and Get the Job Done
 
 Writing about yourself can be challenging. These personal bio examples demonstrate how you can creatively and engagingly present your professional and personal life.
 
@@ -169,6 +167,6 @@ If you speak at events or conferences, create a concise yet engaging speaker bio
 - Instagram Bio Example: Carlos Gil mentions his accomplishments and what he's currently working on.
 - Instagram Bio Example: Samantha Anderl uses humor to attract like-minded people to her business.
 
-## Create Your Bio with Comfy Workspace
+## Create Your Bio with [Comfy Workspace](https://comfyworkspace.com/prices)
 
-Struggling to write your bio? Use Comfy Workspace's AI-powered tools to create engaging and personalized bios effortlessly. Start a free trial today to craft your perfect personal bio.
+Struggling to write your bio? Use [Comfy Workspace](https://comfyworkspace.com/prices)'s AI-powered tools to create engaging and personalized bios effortlessly. Start a free trial today to craft your perfect personal bio.

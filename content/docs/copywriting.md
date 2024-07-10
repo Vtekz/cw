@@ -1,5 +1,5 @@
 ---
-title: '"How to Learn Copywriting from Scratch - Comfy Workspace"'
+title: 'How to Learn Copywriting from Scratch - Comfy Workspace'
 date: '2024-07-10T00:12:00-00:00'
 tags: []
 author: Me
@@ -8,8 +8,8 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: '"Want to break into the market as a copywriter? Here are 10 tips to
-  keep in mind and 6 skills to master if you want to learn copywriting."'
+description: 'Want to break into the market as a copywriter? Here are 10 tips to
+  keep in mind and 6 skills to master if you want to learn copywriting.'
 canonicalURL: https://blog.comfyworkspace.com/
 disableHLJS: true
 disableShare: false
@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-  image: <image path/url>
+  image: "/copywriting.png"
   alt: <alt text>
   caption: <text>
   relative: false
@@ -32,8 +32,6 @@ editPost:
   Text: Suggest Changes
   appendFilePath: true
 ---
-
-# How to Learn Copywriting from Scratch (10 Useful Tips + 6 Skills to Master)
 
 Want to break into the market as a copywriter? Here are 10 tips to keep in mind and 6 skills to master if you want to learn copywriting.
 
@@ -187,4 +185,4 @@ Copywriting requires merciless editing, so save your darlings in a swipe file fo
 
 There’s no end to learning as a copywriter. As you gain knowledge and buff up your writing skills, don’t forget to grab copywriting tools that can help you scale your business. AI-powered tools, for example, can assist you in generating ideas, refining your copy, and maintaining a consistent voice.
 
-Explore the possibilities with Comfy Workspace and elevate your copywriting skills today!
+Explore the possibilities with [Comfy Workspace](https://comfyworkspace.com/prices) and elevate your copywriting skills today!
