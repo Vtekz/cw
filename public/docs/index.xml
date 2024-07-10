@@ -1,1 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Docs on Comfy Workspace</title><link>https://blog.comfyworkspace.com/docs/</link><description>Recent content in Docs on Comfy Workspace</description><generator>Hugo -- 0.128.2</generator><language>en-us</language><lastBuildDate>Tue, 09 Jul 2024 15:12:01 -0400</lastBuildDate><atom:link href="https://blog.comfyworkspace.com/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Test</title><link>https://blog.comfyworkspace.com/docs/test/</link><pubDate>Tue, 09 Jul 2024 15:12:01 -0400</pubDate><guid>https://blog.comfyworkspace.com/docs/test/</guid><description>This is a test page. This is a test page. test test test test</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docs on Comfy Workspace</title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content in Docs on Comfy Workspace</description>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jul 2024 00:12:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;10 Apps That Write Essays For You &#43; How to Use Them - Comfy Workspace&#34;</title>
+      <link>http://localhost:1313/docs/appsthatwriteessays/</link>
+      <pubDate>Wed, 10 Jul 2024 00:12:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/appsthatwriteessays/</guid>
+      <description>&amp;#34;Discover the top 10 apps that can write essays for you and learn how to use them effectively. Boost your productivity and improve your writing with these AI tools.&amp;#34;</description>
+    </item>
+    <item>
+      <title>&#34;10 Best AI Copywriting Tools for 2024 - Comfy Workspace&#34;</title>
+      <link>http://localhost:1313/docs/10aitools/</link>
+      <pubDate>Wed, 10 Jul 2024 00:12:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/10aitools/</guid>
+      <description>&amp;#34;Discover the best AI copywriting tools for 2024. Learn how these AI copywriters can enhance your content creation process and boost your marketing efforts.&amp;#34;</description>
+    </item>
+    <item>
+      <title>&#34;15 Personal Bio Examples That Are Fun, Creative, and Get the Job Done - Comfy Workspace&#34;</title>
+      <link>http://localhost:1313/docs/personalbios/</link>
+      <pubDate>Wed, 10 Jul 2024 00:12:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/personalbios/</guid>
+      <description>&amp;#34;Struggling to write about yourself? Discover 15 personal bio examples that are fun, creative, and effective. Learn how to present yourself in an engaging way on social media, personal websites, and more.&amp;#34;</description>
+    </item>
+    <item>
+      <title>&#34;AI Content Creation Tools: The What, Why, and How - Comfy Workspace&#34;</title>
+      <link>http://localhost:1313/docs/aicontentcreation/</link>
+      <pubDate>Wed, 10 Jul 2024 00:12:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/aicontentcreation/</guid>
+      <description>&amp;#34;Discover how AI content creation tools can streamline your content creation process while maintaining high quality. Learn about the top AI tools and their benefits for marketers.&amp;#34;</description>
+    </item>
+    <item>
+      <title>&#34;AI for SEO: 10 AI SEO Tools and Tips for 2024 - Comfy Workspace&#34;</title>
+      <link>http://localhost:1313/docs/aiseotools/</link>
+      <pubDate>Wed, 10 Jul 2024 00:12:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/aiseotools/</guid>
+      <description>&amp;#34;Use AI tools and best practices to scale your SEO efforts, grow your organic traffic, and improve user acquisition. Discover the top AI SEO tools and tips for 2024.&amp;#34;</description>
+    </item>
+    <item>
+      <title>&#34;How to Learn Copywriting from Scratch - Comfy Workspace&#34;</title>
+      <link>http://localhost:1313/docs/copywriting/</link>
+      <pubDate>Wed, 10 Jul 2024 00:12:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/copywriting/</guid>
+      <description>&amp;#34;Want to break into the market as a copywriter? Here are 10 tips to keep in mind and 6 skills to master if you want to learn copywriting.&amp;#34;</description>
+    </item>
+    <item>
+      <title>&#34;How to Write Powerful Bullet Points Your Readers Won&#39;t Skip - Comfy Workspace&#34;</title>
+      <link>http://localhost:1313/docs/bulletpoints/</link>
+      <pubDate>Wed, 10 Jul 2024 00:12:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/bulletpoints/</guid>
+      <description>&amp;#34;Learn how to write powerful bullet points that capture your readers&amp;#39; attention. Improve your content with these tips and examples.&amp;#34;</description>
+    </item>
+    <item>
+      <title>&#34;Level Up Your Videos With an Engaging YouTube Script - Comfy Workspace&#34;</title>
+      <link>http://localhost:1313/docs/youtubescript/</link>
+      <pubDate>Wed, 10 Jul 2024 00:12:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/youtubescript/</guid>
+      <description>&amp;#34;Level up your videos with an engaging YouTube script. Learn how to write compelling scripts that keep your audience engaged and drive traffic to your site.&amp;#34;</description>
+    </item>
+    <item>
+      <title>&#34;What is a Sentence Rewriter? - Comfy Workspace&#34;</title>
+      <link>http://localhost:1313/docs/sentencerewriter/</link>
+      <pubDate>Wed, 10 Jul 2024 00:12:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/sentencerewriter/</guid>
+      <description>&amp;#34;Discover the benefits of using an AI-powered sentence rewriter for improving readability, clarity, and content workflows with Comfy Workspace.&amp;#34;</description>
+    </item>
+    <item>
+      <title>&#34;What is an AI Paragraph Rewriter? - Comfy Workspace&#34;</title>
+      <link>http://localhost:1313/docs/paragraphrewriter/</link>
+      <pubDate>Wed, 10 Jul 2024 00:12:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/paragraphrewriter/</guid>
+      <description>&amp;#34;Discover the power of AI paragraph rewriters from Comfy Workspace. Enhance readability, generate unique content, and optimize for SEO effortlessly.&amp;#34;</description>
+    </item>
+  </channel>
+</rss>
