@@ -2,7 +2,7 @@
 title: 'What is a Sentence Rewriter? - Comfy Workspace'
 date: '2024-07-10T00:12:00-00:00'
 tags: []
-author: Me
+author: Comfy Bot
 showToc: true
 TocOpen: false
 draft: false
