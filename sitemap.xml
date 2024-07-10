@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/cw/</loc>
+    <loc>https://blog.comfyworkspace.com/</loc>
     <lastmod>2024-07-09T15:12:01-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cw/docs/</loc>
+    <loc>https://blog.comfyworkspace.com/docs/</loc>
     <lastmod>2024-07-09T15:12:01-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cw/docs/test/</loc>
+    <loc>https://blog.comfyworkspace.com/docs/test/</loc>
     <lastmod>2024-07-09T15:12:01-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cw/categories/</loc>
+    <loc>https://blog.comfyworkspace.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/cw/tags/</loc>
+    <loc>https://blog.comfyworkspace.com/tags/</loc>
   </url>
 </urlset>
