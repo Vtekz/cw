@@ -4,6 +4,11 @@
     <title>Categories on Comfy Workspace</title>
     <link>https://blog.comfyworkspace.com/categories/</link>
     <description>Recent content in Categories on Comfy Workspace</description>
+    <image>
+      <title>Comfy Workspace</title>
+      <url>https://blog.comfyworkspace.com/content/docs/images/comfy-workspace-og-image.jpg</url>
+      <link>https://blog.comfyworkspace.com/content/docs/images/comfy-workspace-og-image.jpg</link>
+    </image>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
     <atom:link href="https://blog.comfyworkspace.com/categories/index.xml" rel="self" type="application/rss+xml" />
