@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2024 on Comfy Workspace</title>
+    <link>http://localhost:1313/tags/2024/</link>
+    <description>Recent content in 2024 on Comfy Workspace</description>
+    <image>
+      <title>Comfy Workspace</title>
+      <url>http://localhost:1313/content/docs/images/comfy-workspace-og-image.jpg</url>
+      <link>http://localhost:1313/content/docs/images/comfy-workspace-og-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jul 2024 00:12:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Ultimate Guide to AI Writing Tools: Revolutionizing Content Creation in 2024</title>
+      <link>http://localhost:1313/docs/aiwritingtools/</link>
+      <pubDate>Thu, 11 Jul 2024 00:12:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/aiwritingtools/</guid>
+      <description>Discover how AI writing tools are transforming content creation in 2024. Learn about the top AI writing assistants that can boost your productivity and enhance your marketing efforts.</description>
+    </item>
+  </channel>
+</rss>

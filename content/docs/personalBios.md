@@ -30,9 +30,9 @@ cover:
   relative: false
   hidden: true
 editPost:
-  URL: https://github.com/vtekz/cw/content
-  Text: Suggest Changes
-  appendFilePath: true
+  URL: https://comfyworkspace.com
+  Text: Try Comfyworkspace AI
+  appendFilePath: false
 ---
 
 Writing about yourself can be challenging. These personal bio examples demonstrate how you can creatively and engagingly present your professional and personal life.

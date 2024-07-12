@@ -38,6 +38,8 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
+  customCSS: 
+  - css/custom.css
 
   assets:
     favicon: "/favicon.ico"

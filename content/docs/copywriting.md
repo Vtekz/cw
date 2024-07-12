@@ -28,9 +28,9 @@ cover:
   relative: false
   hidden: true
 editPost:
-  URL: https://github.com/vtekz/cw/content
-  Text: Suggest Changes
-  appendFilePath: true
+  URL: https://comfyworkspace.com
+  Text: Try Comfyworkspace AI
+  appendFilePath: false
 ---
 
 Want to break into the market as a copywriter? Here are 10 tips to keep in mind and 6 skills to master if you want to learn copywriting.

@@ -29,9 +29,9 @@ cover:
   relative: false
   hidden: true
 editPost:
-  URL: https://github.com/vtekz/cw/content
-  Text: Suggest Changes
-  appendFilePath: true
+  URL: https://comfyworkspace.com
+  Text: Try Comfyworkspace AI
+  appendFilePath: false
 ---
 
 Writing essays can be a time-consuming and labor-intensive process. To help you submit your papers faster, we've compiled the top 10 apps that write essays for you.
@@ -92,7 +92,7 @@ Cons:
 
 Pricing: [Comfy Workspace](https://comfyworkspace.com/prices) offers plans starting at just $5/month. Check out our pricing page for more details.
 
-### 2. Papers Owl
+### 2. [Papers Owl](https://papersowl.com/)
 
 Papers Owl offers a quick thesis statement generator that makes the most out of the first few sentences of your essay. Input your information, and the AI generates a paragraph to introduce your essay.
 
@@ -109,7 +109,7 @@ Cons:
 
 Pricing: Free
 
-### 3. Coggle
+### 3. [Coggle](https://coggle.it/)
 
 Coggle is a mind mapping app that helps you decide on your essay topic, organize points, and see how ideas are linked. Available for iOS, Android, and as a Chrome extension.
 
@@ -128,7 +128,7 @@ Cons:
 
 Pricing: Free forever, paid plans start at $5/month
 
-### 4. Wordtune Read
+### 4. [Wordtune Read](https://www.wordtune.com/summarizer)
 
 Wordtune Read reduces reading time by summarizing long articles and essays, making essential points easily accessible.
 
@@ -146,7 +146,7 @@ Cons:
 
 Pricing: Free basic version, paid plans start at $9.99/month
 
-### 5. Essay AI Lab
+### 5. [Essay AI Lab](https://www.essayailab.com/)
 
 Essay AI Lab searches the internet for relevant information and compiles it into an essay. You provide the title and prompt, and the AI handles the rest.
 
@@ -165,7 +165,7 @@ Cons:
 
 Pricing: Free
 
-### 6. My Assignment Help Essay Typer
+### 6. [My Assignment Help Essay Typer](https://myassignmenthelp.com/free-tools.php)
 
 Similar to Essay AI Lab, this tool provides pre-written paragraphs on your topic and offers expert assistance for finishing your paper.
 
@@ -183,7 +183,7 @@ Cons:
 
 Pricing: Free
 
-### 7. Paper Typer
+### 7. [Paper Typer](https://papertyper.net/)
 
 Paper Typer writes entire essays in seconds after you specify the subject. It offers headers and subheaders to create well-structured essays.
 
@@ -221,7 +221,7 @@ Cons:
 
 Pricing: Free, premium plans start at $9.99/month
 
-### 9. AI Writer
+### 9. [AI Writer](https://simplified.com/ai-writer)
 
 AI Writer provides original drafts, citations, and relevant SEO-friendly content based on your input.
 

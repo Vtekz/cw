@@ -29,9 +29,9 @@ cover:
   relative: false
   hidden: true
 editPost:
-  URL: https://github.com/vtekz/cw/content
-  Text: Suggest Changes
-  appendFilePath: true
+  URL: https://comfyworkspace.com
+  Text: Try Comfyworkspace AI
+  appendFilePath: false
 ---
 
 YouTube can be a powerful platform for brands in every industry. The sheer number of users can increase your reach, and the interactive nature of video content makes it easier to forge a connection with your audience.

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Writing Tools on Comfy Workspace</title>
+    <link>http://localhost:1313/tags/ai-writing-tools/</link>
+    <description>Recent content in AI Writing Tools on Comfy Workspace</description>
+    <image>
+      <title>Comfy Workspace</title>
+      <url>http://localhost:1313/content/docs/images/comfy-workspace-og-image.jpg</url>
+      <link>http://localhost:1313/content/docs/images/comfy-workspace-og-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jul 2024 00:12:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai-writing-tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 10 AI Writing Tools for 2024: Revolutionize Your Content Creation</title>
+      <link>http://localhost:1313/docs/best24/</link>
+      <pubDate>Wed, 10 Jul 2024 00:12:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/best24/</guid>
+      <description>Discover the 10 best AI writing tools for 2024 that will supercharge your content creation process. Learn how these cutting-edge AI copywriters can enhance your marketing efforts, boost productivity, and create high-quality content at scale.</description>
+    </item>
+  </channel>
+</rss>

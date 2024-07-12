@@ -28,9 +28,9 @@ cover:
   relative: false
   hidden: true
 editPost:
-  URL: https://github.com/vtekz/cw/content
-  Text: Suggest Changes
-  appendFilePath: true
+  URL: https://comfyworkspace.com
+  Text: Try Comfyworkspace AI
+  appendFilePath: false
 ---
 
 Bullet points are essential for writing content that grabs attention. Discover why they’re valuable and see examples to help you write your own effective bullet points.

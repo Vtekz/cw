@@ -28,9 +28,9 @@ cover:
   relative: false
   hidden: true
 editPost:
-  URL: https://github.com/vtekz/cw/content
-  Text: Suggest Changes
-  appendFilePath: true
+  URL: https://comfyworkspace.com
+  Text: Try Comfyworkspace AI
+  appendFilePath: false
 ---
 
 An AI sentence rewriter is a tool that uses artificial intelligence to create alternative versions of a given sentence or paragraph while keeping the original meaning intact. By leveraging natural language processing (NLP) and machine learning, it analyzes the structure, semantics, and context of the input text and intelligently reconstructs it with synonyms, rearranged word order, and varied sentence structures.

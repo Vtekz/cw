@@ -28,9 +28,9 @@ cover:
   relative: false
   hidden: true
 editPost:
-  URL: https://github.com/vtekz/cw/content
-  Text: Suggest Changes
-  appendFilePath: true
+  URL: https://comfyworkspace.com
+  Text: Try Comfyworkspace AI
+  appendFilePath: false
 ---
 
 An AI paragraph rewriter is a powerful tool that utilizes advanced natural language processing (NLP) technology to automatically understand and rephrase text. These systems analyze the semantics and syntax of your original paragraph, then rewrite it while preserving the core meaning and message. An AI paragraph rewriter tool from [Comfy Workspace](https://comfyworkspace.com/prices) creates high-quality, grammatically correct, and contextually relevant rewritten content.
