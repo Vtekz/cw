@@ -68,7 +68,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "YOUR_GOOGLE_SITE_VERIFICATION_TAG"
+      SiteVerificationTag: "G-1NG79M7T55"
     bing:
       SiteVerificationTag: "YOUR_BING_SITE_VERIFICATION_TAG"
 
